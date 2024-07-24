@@ -1,0 +1,30 @@
+.border-con {
+  border: 2px solid red;
+
+  /* border-width: 5px;
+  border-color: blue;
+  border-style: dashed; */
+
+  /* border-left-width: 10px;
+  border-right-width: 10px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+
+  border-left-style: solid;
+  border-right-style: double;
+  border-top-style: dashed;
+  border-bottom-style: double;
+
+  border-left-color: red;
+  border-right-color: rgb(72, 255, 0);
+  border-top-color: rgb(214, 98, 98);
+  border-bottom-color: rgb(255, 81, 0); */
+
+  /* border-top
+
+border-right
+
+border-bottom
+
+border-left */
+}

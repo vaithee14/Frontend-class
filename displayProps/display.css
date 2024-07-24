@@ -1,0 +1,17 @@
+.box {
+  height: 100px;
+  width: 100px;
+}
+.box1 {
+  background-color: aqua;
+  /* visibility: visible; */
+  /* visibility: hidden; */
+
+  display: none;
+}
+.box2 {
+  background-color: orange;
+}
+.box3 {
+  background-color: blue;
+}

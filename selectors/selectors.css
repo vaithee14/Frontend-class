@@ -1,0 +1,35 @@
+/* p {
+  color: red;
+} */
+
+/* class */
+.my-para {
+  color: red;
+}
+/* id */
+#login_btn {
+  background-color: green;
+}
+
+/* universal */
+* {
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.my-para, #para,p {
+  font-size: 40px;
+  color: blue;
+}
+
+.my-para {
+  font-size: 40px;
+  color: blue;
+}
+#para {
+  font-size: 40px;
+  color: blue;
+}
+p {
+  font-size: 40px;
+  color: blue;
+}
